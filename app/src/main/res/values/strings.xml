@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TTS</string>
+    <string name="hello_there_type_your_text_and_press_the_button_and_i_will_speak_it">Hello there! . Type your text and press the button and I will speak it</string>
+</resources>
